@@ -17,6 +17,7 @@
   
   ##
  
-<div> 
+<div>
+ 
   ![Snake animation](https://github.com/thiagoms15/thiagoms15/blob/output/github-contribution-grid-snake.svg)
 </div>
