@@ -1,4 +1,7 @@
-## Hi! I am Thiago Marques
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&repeat=false&width=435&lines=Hi!+I+am+Thiago+Marques)](https://git.io/typing-svg)
+
+##
 
  <div>
   <a href="https://github.com/thiagoms15">
@@ -19,6 +22,6 @@
   ##
  
 <div>
- 
+
   ![Snake animation](https://github.com/thiagoms15/thiagoms15/blob/output/github-contribution-grid-snake.svg)
 </div>
